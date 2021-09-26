@@ -55,12 +55,10 @@ Node<br>
  
 ## Primeiros passos (Amanda E Emilly)
  
-* Para Instalar :
->    
-* Para criar  o banco e fazer migrações:
->   
-* Para executar o projeto:
-> 
+1 - Instalar uma IDE (aqui vamos usar a PyCharm)
+2 - Instalar o Python
+3 - Instalar o gerenciador de banco de dados para SQLLite (aqui vamos usar o DB Browser)
+4 - Instalar o framework Django
  
 ## Como Funciona 
 Cadastro de empresa e cadastro de produtos é possível cadastrar produtos para cada empresa. As funções: deletar, atualizar, listar e criar  estão disponiveis para os campos empresa e produtos tornando possível alterações conforme a necessidade .

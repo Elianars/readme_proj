@@ -91,8 +91,19 @@ Here will be the images and descriptions. Principal content.
 * **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
 * - LInkedin:
   - Amanda https://www.linkedin.com/in/amanda-pimentel-a518563a
+  - apimentelfatec@gmail.com 
+  - github.com/amandapimentel13 
+   
   - Eliana https://www.linkedin.com/in/eliana-souzarr/
+  - elianasouzarr@gmail.com
+  - github.com/Elianars 
+  - 
   - Emilly https://www.linkedin.com/in/emilly-almeida-tecnicaemquimica
+  - emillyalmeidan@gmail.com
+  - 
   - Letícia https://www.linkedin.com/in/let%C3%ADcia-diniz-28a421195/
+  - leticia.diniz181@gmail.com
+  - 
   - Livia https://www.linkedin.com/in/livia-mil/
+  - github.com/LMilM 
  

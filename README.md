@@ -41,6 +41,7 @@ Kubernerts <br>
 Python :snake:<br>
 Git <br>
 Node<br>
+![tec_proj](https://user-images.githubusercontent.com/72577082/134823335-b93b6383-e4c0-4a29-853d-e54d6ad6a4be.png)
 
  
 ## Serviços Usados

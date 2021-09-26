@@ -18,8 +18,7 @@ Prints do sistema
 :gear: :wrench: 
 Este projeto é dividido em 2 partes: <br> Backend: kubernetes e o GCP<br> 
 Sqlite ( descrever comandos )<br>
-Criar CRUD (Create, Read, Update and Delete)<br>![3098090]
-
+Criar CRUD (Create, Read, Update and Delete)<br>
 Frontend ( descrever comandos )<br>
 Django ( descrever comandos )<br>
 Docker ( descrever comandos )<br>
@@ -42,10 +41,7 @@ Docker :whale2:<br>
 Kubernerts <br>
 Python :snake:<br>
 Git <br>
-Nod e<br>
-[tec_proje.pptx](https://github.com/Elianars/readme_proj/files/7232158/tec_proje.pptx)
-
-
+Node<br>
 
  
 ## Services Used

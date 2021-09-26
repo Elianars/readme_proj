@@ -4,27 +4,31 @@
  
 ## Magazine squad women
  
-SOBRE O PROJETO: Magazine squad women é um sistema para relacionar a consulta de produtos e suas respectivas empresas.<br> Projeto desenvolvido durante o Luiza<Code> 3° edição google cloud GCP.
+:rocket: SOBRE O PROJETO: Magazine squad women é um sistema para relacionar a consulta de produtos e suas respectivas empresas.<br> Projeto desenvolvido durante o Luiza Code
+ 3° edição google cloud GCP.
  
 ## Funcionalidades 
-Permite consulta e cadastro de produtos e empresas, além de alterações e exclusões caso necessário.
+ :dart:  Permite consulta e cadastro de produtos e empresas, além de alterações e exclusões caso necessário.
 
 ## Layout  
 Prints do sistema
 (http://logo_link)
 
-## Como executar o projeto:
+## Como executar o projeto:<br>
+:gear: :wrench: 
 Este projeto é dividido em 2 partes: <br> Backend: kubernetes e o GCP<br> 
 Sqlite ( descrever comandos )<br>
-Criar CRUD (Create, Read, Update and Delete)<br>
+Criar CRUD (Create, Read, Update and Delete)<br>![3098090]
+
 Frontend ( descrever comandos )<br>
 Django ( descrever comandos )<br>
 Docker ( descrever comandos )<br>
 Kubernerts ( descrever comandos )<br>
 Python ( descrever comandos )<br>
 
-## Requisitos 
+## Requisitos <br>
 
+:pencil:
  Em  sua máquina deverá instalar: <br> Python <br> sqlite <br> django <br> utilizar <br> IDE Pycharm
  Deve instalar o GIT para fazer versionamento <br>
  Para o backend: deverá instalar o docker e o minikube
@@ -32,13 +36,16 @@ Python ( descrever comandos )<br>
 
 ## Technology
 
-IDE Pycharm
-Django
-Docker
-Kubernerts 
-Python
-Git 
-Node
+IDE Pycharm<br>
+Django<br>
+Docker :whale2:<br>
+Kubernerts <br>
+Python :snake:<br>
+Git <br>
+Nod e<br>
+[tec_proje.pptx](https://github.com/Elianars/readme_proj/files/7232158/tec_proje.pptx)
+
+
 
  
 ## Services Used
@@ -46,7 +53,8 @@ Node
 * Github
 * Trello 
 * Google Drive 
-* Google Meet 
+* Google Meet
+* Keep 
  
  
 ## Getting started ( Amanda E Emilly)

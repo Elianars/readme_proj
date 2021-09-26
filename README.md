@@ -1,7 +1,8 @@
-![logo](https://user-images.githubusercontent.com/72577082/134821265-386b3284-4664-4fe2-9588-71462414d024.png)
 
 
- 
+
+ ![logo](https://user-images.githubusercontent.com/72577082/134828439-087e49f7-8001-4734-b2f5-b68f3c598082.png)
+
 ## Magazine squad women
  
 :rocket: SOBRE O PROJETO: Magazine squad women é um sistema para relacionar a consulta de produtos e suas respectivas empresas.<br> Projeto desenvolvido durante o Luiza Code
@@ -11,7 +12,8 @@
  :dart:  Permite consultar, cadastrar ,atualizar  e deletar  os campos empresa e produto  caso necessário.
 
 ## Layout  
-Prints do sistema
+Prints do sistema!
+
 (http://logo_link)
 
 ## Como executar o projeto:<br>
@@ -55,10 +57,10 @@ Node<br>
  
 ## Primeiros passos (Amanda E Emilly)
  
-1 - Instalar uma IDE (aqui vamos usar a PyCharm)
-2 - Instalar o Python
-3 - Instalar o gerenciador de banco de dados para SQLLite (aqui vamos usar o DB Browser)
-4 - Instalar o framework Django
+1 - Instalar uma IDE (aqui vamos usar a PyCharm)<br>
+2 - Instalar o Python<br>
+3 - Instalar o gerenciador de banco de dados para SQLLite<br>
+4 - Instalar o framework Django<br>
  
 ## Como Funciona 
 Cadastro de empresa e cadastro de produtos é possível cadastrar produtos para cada empresa. As funções: deletar, atualizar, listar e criar  estão disponiveis para os campos empresa e produtos tornando possível alterações conforme a necessidade .

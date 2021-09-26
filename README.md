@@ -8,7 +8,7 @@
  3° edição google cloud GCP 2021.
  
 ## Funcionalidades 
- :dart:  Permite consulta e cadastro de produtos e empresas, além de alterações e exclusões caso necessário.
+ :dart:  Permite consultar, cadastrar ,atualizar  e deletar  os campos empresa e produto  caso necessário.
 
 ## Layout  
 Prints do sistema

@@ -1,28 +1,20 @@
-![Logo of the project](http://logo_link)
+![logo](https://user-images.githubusercontent.com/72577082/134821265-386b3284-4664-4fe2-9588-71462414d024.png)
+
+
  
 ## Magazine squad women
  
-SOBRE O PROJETO: Magazine squad women é um sistema para relacionar a consulta de produtos e suas respectivas empresas.<br> Projeto desenvolvido durante o Luiza labs 3 edição google cloud GCP.
+SOBRE O PROJETO: Magazine squad women é um sistema para relacionar a consulta de produtos e suas respectivas empresas.<br> Projeto desenvolvido durante o Luiza<Code> 3° edição google cloud GCP.
  
 ## Funcionalidades 
 Permite consulta e cadastro de produtos e empresas, além de alterações e exclusões caso necessário.
-
-<---Cadastro de empresas na plataforma web:
-Nome da empresa,id,email,e cnpj--->
-******
-Amanda colocou:  Nome , contato,telefone
-*****
-Cadastro de produtos;
-nome,id,quantidade,preço.
-*******
-
 
 ## Layout  
 Prints do sistema
 (http://logo_link)
 
 ## Como executar o projeto:
-Este projeto é dividido em 2 partes: <br> Backend: kubernetes e o GCP 
+Este projeto é dividido em 2 partes: <br> Backend: kubernetes e o GCP<br> 
 Sqlite ( descrever comandos )<br>
 Criar CRUD (Create, Read, Update and Delete)<br>
 Frontend ( descrever comandos )<br>

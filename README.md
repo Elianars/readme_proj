@@ -28,7 +28,7 @@ Python ( descrever comandos )<br>
 ## Requisitos <br>
 
 :pencil:
- Em  sua máquina deverá instalar: <br> Python <br> sqlite <br> django <br> utilizar <br> IDE Pycharm<br> GIT <br>
+ Instalação : <br> Python <br> sqlite <br> django <br> utilizar <br> IDE Pycharm<br> GIT <br>
  Para o backend: deverá instalar o docker e o minikube
 
 

@@ -5,7 +5,7 @@
 ## Magazine squad women
  
 :rocket: SOBRE O PROJETO: Magazine squad women é um sistema para relacionar a consulta de produtos e suas respectivas empresas.<br> Projeto desenvolvido durante o Luiza Code
- 3° edição google cloud GCP.
+ 3° edição google cloud GCP 2021.
  
 ## Funcionalidades 
  :dart:  Permite consulta e cadastro de produtos e empresas, além de alterações e exclusões caso necessário.
@@ -34,13 +34,7 @@ Python ( descrever comandos )<br>
 
 ## Technology
 
-IDE Pycharm<br>
-Django<br>
-Docker :whale2:<br>
-Kubernerts <br>
-Python :snake:<br>
-Git <br>
-Node<br>
+
 ![tec_proj](https://user-images.githubusercontent.com/72577082/134823335-b93b6383-e4c0-4a29-853d-e54d6ad6a4be.png)
 
  

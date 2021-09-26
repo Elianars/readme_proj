@@ -62,9 +62,8 @@ Node<br>
 * Para executar o projeto:
 > 
  
-## Como Usar 
- 
-Here will be the images and descriptions. Principal content.
+## Como Funciona 
+Cadastro de empresa e cadastro de produtos é possível cadastrar produtos para cada empresa. As funções: deletar, atualizar, listar e criar  estão disponiveis para os campos empresa e produtos tornando possível alterações conforme a necessidade .
  
  
 ## Recursos
@@ -88,27 +87,27 @@ Here will be the images and descriptions. Principal content.
  
 ## Authors
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
-* - LInkedin:
+
+* - Nome
   - Amanda
-  -  https://www.linkedin.com/in/amanda-pimentel-a518563a
-  - apimentelfatec@gmail.com 
-  - github.com/amandapimentel13 
+  - LInkedin: https://www.linkedin.com/in/amanda-pimentel-a518563a
+  - Email: apimentelfatec@gmail.com 
+  - GitHub: github.com/amandapimentel13 
    
   - Eliana 
-  - https://www.linkedin.com/in/eliana-souzarr/
-  - elianasouzarr@gmail.com
-  - github.com/Elianars 
+  - LInkedin: https://www.linkedin.com/in/eliana-souzarr/
+  - Email: elianasouzarr@gmail.com
+  - GitHub: github.com/Elianars 
   - 
   - Emilly
-  -  https://www.linkedin.com/in/emilly-almeida-tecnicaemquimica
-  - emillyalmeidan@gmail.com
+  - LInkedin: https://www.linkedin.com/in/emilly-almeida-tecnicaemquimica
+  - Email:emillyalmeidan@gmail.com
   - 
   - Letícia
-  -  https://www.linkedin.com/in/let%C3%ADcia-diniz-28a421195/
-  - leticia.diniz181@gmail.com
+  - LInkedin: https://www.linkedin.com/in/let%C3%ADcia-diniz-28a421195/
+  - Email: leticia.diniz181@gmail.com
   - 
   - Livia
-  -  https://www.linkedin.com/in/livia-mil/
-  - github.com/LMilM 
+  - LInkedin:https://www.linkedin.com/in/livia-mil/
+  - GitHub: github.com/LMilM 
  

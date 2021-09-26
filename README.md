@@ -98,16 +98,17 @@ Cadastro de empresa e cadastro de produtos é possível cadastrar produtos para 
   - LInkedin: https://www.linkedin.com/in/eliana-souzarr/
   - Email: elianasouzarr@gmail.com
   - GitHub: github.com/Elianars 
-  - 
+   
   - Emilly
   - LInkedin: https://www.linkedin.com/in/emilly-almeida-tecnicaemquimica
   - Email:emillyalmeidan@gmail.com
-  - 
+   
   - Letícia
   - LInkedin: https://www.linkedin.com/in/let%C3%ADcia-diniz-28a421195/
   - Email: leticia.diniz181@gmail.com
-  - 
+  
   - Livia
   - LInkedin:https://www.linkedin.com/in/livia-mil/
+  - Email:livia.mil.m@gmail.com
   - GitHub: github.com/LMilM 
  

@@ -28,8 +28,7 @@ Python ( descrever comandos )<br>
 ## Requisitos <br>
 
 :pencil:
- Em  sua máquina deverá instalar: <br> Python <br> sqlite <br> django <br> utilizar <br> IDE Pycharm
- Deve instalar o GIT para fazer versionamento <br>
+ Em  sua máquina deverá instalar: <br> Python <br> sqlite <br> django <br> utilizar <br> IDE Pycharm<br> GIT <br>
  Para o backend: deverá instalar o docker e o minikube
 
 
@@ -44,7 +43,7 @@ Git <br>
 Node<br>
 
  
-## Services Used
+## Serviços Usados
  
 * Github
 * Trello 
@@ -53,23 +52,26 @@ Node<br>
 * Keep 
  
  
-## Getting started ( Amanda E Emilly)
+## Primeiros passos (Amanda E Emilly)
  
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
+* Para Instalar :
+>    
+* Para criar  o banco e fazer migrações:
+>   
+* Para executar o projeto:
+> 
  
-## How to use
+## Como Usar 
  
 Here will be the images and descriptions. Principal content.
  
  
-## Features
+## Recursos
  
-  - Here will be the features.
+  - Deletar
+  - Criar
+  - Atualizar
+  - Listar
  
  
 ## Links

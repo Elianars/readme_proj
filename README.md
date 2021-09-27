@@ -56,7 +56,7 @@ Git <br>
 * Keep 
  
  
-## Primeiros passos (Amanda E Emilly)
+## Primeiros passos 
  
 1 - Instalar uma IDE (aqui vamos usar a PyCharm)<br>
 2 - Instalar o Python<br>

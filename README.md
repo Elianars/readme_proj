@@ -41,9 +41,10 @@ Docker :whale2:<br>
 Kubernerts <br>
 Python :snake:<br>
 Git <br>
-Node<br>
+![django](https://user-images.githubusercontent.com/72577082/134831279-56d79b47-10eb-463d-a133-3b0296e51dd2.png)
 
-![tec_proj](https://user-images.githubusercontent.com/72577082/134823335-b93b6383-e4c0-4a29-853d-e54d6ad6a4be.png)
+
+
 
  
 ## Serviços Usados

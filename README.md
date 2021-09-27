@@ -108,7 +108,7 @@ Cadastro de empresa e cadastro de produtos é possível cadastrar produtos para 
   - LInkedin: https://www.linkedin.com/in/let%C3%ADcia-diniz-28a421195/
   - Email: leticia.diniz181@gmail.com
   
-  - Livia
+  - Lívia
   - LInkedin:https://www.linkedin.com/in/livia-mil/
   - Email:livia.mil.m@gmail.com
   - GitHub: github.com/LMilM 

@@ -24,7 +24,7 @@ Procure no Dockerhub  o container por  "app women squad"<br>
 copie o comando: docker pull emillyalmeida/app-women-squad<br>
 docker run <br>
 executando o docker run é possivel rodar localmente <br>
-deployments: iniciar um clouster por meio de um minikube e depois realizar o deploy desse container na sua propria máquina.<br>
+
 
 
 ## Requisitos <br>

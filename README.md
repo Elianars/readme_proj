@@ -37,7 +37,7 @@ executando o docker run é possivel rodar localmente <br>
 IDE Pycharm<br>
 Django<br>
 Docker :whale2:<br>
-Kubernerts <br>
+Kubernetes <br>
 Python :snake:<br>
 Git <br>
 ![django](https://user-images.githubusercontent.com/72577082/134831279-56d79b47-10eb-463d-a133-3b0296e51dd2.png)

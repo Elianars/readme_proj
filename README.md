@@ -103,6 +103,7 @@ Cadastro de empresa e cadastro de produtos é possível cadastrar produtos para 
   - Emilly
   - LInkedin: https://www.linkedin.com/in/emilly-almeida-tecnicaemquimica
   - Email:emillyalmeidan@gmail.com
+  - GitHub:https://github.com/Emillyalmeida
    
   - Letícia
   - LInkedin: https://www.linkedin.com/in/let%C3%ADcia-diniz-28a421195/

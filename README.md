@@ -3,7 +3,7 @@
 
  ![logo](https://user-images.githubusercontent.com/72577082/134828439-087e49f7-8001-4734-b2f5-b68f3c598082.png)
 
-## Magazine squad women
+## Magazine women squad 
  
 :rocket: SOBRE O PROJETO: Magazine squad women é um sistema para relacionar a consulta de produtos e suas respectivas empresas.<br> Projeto desenvolvido durante o Luiza Code
  3° edição google cloud GCP 2021.

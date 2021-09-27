@@ -17,15 +17,15 @@ Prints do sistema!
 (http://logo_link)
 
 ## Como executar o projeto:<br>
-:gear: :wrench: 
-Este projeto é dividido em 2 partes: <br> Backend: kubernetes e o GCP<br> 
-Sqlite ( descrever comandos )<br>
-Criar CRUD (Create, Read, Update and Delete)<br>
-Frontend ( descrever comandos )<br>
-Django ( descrever comandos )<br>
-Docker ( descrever comandos )<br>
-Kubernerts ( descrever comandos )<br>
-Python ( descrever comandos )<br>
+:gear: :wrench:
+Realizar a instalação  do Docker <br>
+
+Procure no Dockerhub  o container por  "app women squad"<br>
+copie o comando: docker pull emillyalmeida/app-women-squad<br>
+docker run <br>
+executando o docker run é possivel rodar localmente <br>
+deployments: iniciar um clouster por meio de um minikube e depois realizar o deploy desse container na sua propria máquina.<br>
+
 
 ## Requisitos <br>
 
